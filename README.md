@@ -1,4 +1,4 @@
-# Pthreads_Media_player
+# Pthreads Media Player
 Here the server uses Pthreads to handle multiple clients simultaneously.
 The code includes 3 threads:
 1)Continuously listens to designated port
